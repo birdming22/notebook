@@ -8,4 +8,5 @@
 * [birdming22](birdming22/README.md)
     * [智商稅](birdming22/iq_tax.md)
 * [Learn How To Learn](learn-how-to-learn.md)
+* [等待整理](等待整理.md)
 
